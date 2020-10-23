@@ -2,7 +2,7 @@
 Batch Transaction to send USDC.
 
 # Demo Video
-https://youtu.be/qQebFsjnuIg
+https://youtu.be/JVMu6e5zUnU
 
 # Demo App
 
