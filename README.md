@@ -8,4 +8,4 @@ https://youtu.be/JVMu6e5zUnU
 
 # Demo App
 
-https://ropsten-spellcaster.netlify.app/
+https://www.sendusdc.net/
